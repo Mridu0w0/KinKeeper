@@ -1,7 +1,5 @@
 # KeenKeeper 🌿
 
-> **Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most.**
-
 KeenKeeper is a modern personal relationship management dashboard built with React. In today's busy world, it's easy to lose touch with the people who matter. KeenKeeper acts as a personal CRM for your social life, helping you track interactions with friends, family, and colleagues, set contact goals, and ensure no meaningful connection slips through the cracks.
 
 ---

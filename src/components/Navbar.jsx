@@ -42,7 +42,7 @@ const Navbar = () => {
                 `rounded-lg px-4 py-2 transition-colors ${isActive ? "bg-green-800 text-white" : "hover:bg-gray-100"}`
               }
             >
-             <FaHome className="text-lg" />  Home
+              Home
             </NavLink>
           </li>
           <li>
