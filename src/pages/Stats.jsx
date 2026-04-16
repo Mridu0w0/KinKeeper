@@ -60,7 +60,7 @@ const Stats = () => {
     };
 
     return (
-        <div className="min-h-screen bg-[#F8F9FB] p-8 md:p-12 font-sans">
+        <div className=" bg-[#F8F9FB] p-8 md:p-12 font-sans">
             <div className="max-w-5xl mx-auto">
                 
                 {/* Heading */}
