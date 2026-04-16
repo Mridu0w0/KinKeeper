@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Jenkins",
+    "picture": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+    "email": "sarah.j@email.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["childhood", "hometown"],
+    "bio": "Grew up on the same street. She's a pediatric nurse now and loves talking about her golden retriever.",
+    "goal": 30,
+    "next_due_date": "2025-08-10"
+  },
+  {
+    "id": 2,
+    "name": "Marcus Chen",
+    "picture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+    "email": "m.chen@techcorp.net",
+    "days_since_contact": 13,
+    "status": "almost due",
+    "tags": ["work", "mentor"],
+    "bio": "Former manager at my first job. Great source of career advice and shares a passion for mechanical keyboards.",
+    "goal": 14,
+    "next_due_date": "2025-07-17"
+  },
+  {
+    "id": 3,
+    "name": "Elena Rodriguez",
+    "picture": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
+    "email": "elena.rod@webmail.com",
+    "days_since_contact": 45,
+    "status": "overdue",
+    "tags": ["college", "travel"],
+    "bio": "Studied abroad together in Madrid. She's currently living in Chicago and working as a graphic designer.",
+    "goal": 30,
+    "next_due_date": "2025-06-15"
+  },
+  {
+    "id": 4,
+    "name": "David 'Dax' Miller",
+    "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+    "email": "dax.miller@freemail.org",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["gaming", "close friend"],
+    "bio": "Part of my weekly D&D group. Known him since high school. Always down for a late-night strategy game.",
+    "goal": 7,
+    "next_due_date": "2025-07-09"
+  },
+  {
+    "id": 5,
+    "name": "Priya Sharma",
+    "picture": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2",
+    "email": "psharma@startup.io",
+    "days_since_contact": 80,
+    "status": "overdue",
+    "tags": ["college", "professional"],
+    "bio": "Was my lab partner in Chemistry. She just launched her own biotech startup. We usually catch up once a quarter.",
+    "goal": 60,
+    "next_due_date": "2025-05-20"
+  },
+  {
+    "id": 6,
+    "name": "Jordan Taylor",
+    "picture": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6",
+    "email": "jtaylor_fits@email.com",
+    "days_since_contact": 6,
+    "status": "almost due",
+    "tags": ["gym", "neighbor"],
+    "bio": "Lives two floors down. We usually hit the gym together on Tuesday mornings and grab coffee after.",
+    "goal": 7,
+    "next_due_date": "2025-07-08"
+  },
+  {
+    "id": 7,
+    "name": "Aunt Martha",
+    "picture": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+    "email": "martha.stewart@family.com",
+    "days_since_contact": 20,
+    "status": "on-track",
+    "tags": ["family"],
+    "bio": "Dad's older sister. Makes the best apple pie and always wants to hear about my latest vacation.",
+    "goal": 30,
+    "next_due_date": "2025-07-24"
+  },
+  {
+    "id": 8,
+    "name": "Samir Gupta",
+    "picture": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
+    "email": "samir.g@musicly.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["music", "concerts"],
+    "bio": "Met at a jazz festival last year. We trade Spotify playlists every week and try to hit one show a month.",
+    "goal": 14,
+    "next_due_date": "2025-07-16"
+  }
+]
