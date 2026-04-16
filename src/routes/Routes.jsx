@@ -3,7 +3,7 @@ import MainLayout from '../layout/MainLayout';
 import Home from '../pages/Home';
 import Details from '../pages/Details';
 import Timeline from '../pages/Timeline';
-import States from '../pages/States';
+import Stats from '../pages/Stats';
 import { createBrowserRouter } from "react-router";
 import ErrorPage from '../pages/ErrorPage';
 
@@ -25,8 +25,8 @@ export const router = createBrowserRouter([
         element: <Timeline/> 
       },
       { 
-        path: "/states", 
-        element: <States/> 
+        path: "/stats", 
+        element: <Stats/> 
       },
     ],
     errorElement: <ErrorPage />

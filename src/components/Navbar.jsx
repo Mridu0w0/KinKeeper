@@ -22,7 +22,7 @@ const Navbar = () => {
 
             <li><NavLink to="/timeline"><RiTimeLine />TimeLine</NavLink></li>
 
-            <li><NavLink to="/states"> <GoGraph />States</NavLink></li>
+            <li><NavLink to="/stats"> <GoGraph />Stats</NavLink></li>
 
           </ul>
         </div>
@@ -57,12 +57,12 @@ const Navbar = () => {
           </li>
           <li>
             <NavLink 
-              to="/states" 
+              to="/stats" 
               className={({ isActive }) => 
                 `rounded-lg px-4 py-2 transition-colors ${isActive ? "bg-green-800 text-white" : "hover:bg-gray-100"}`
               }
             >
-              <GoGraph className="text-lg" /> States
+              <GoGraph className="text-lg" /> Stats
             </NavLink>
           </li>
         </ul>
